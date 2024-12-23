@@ -1,0 +1,16 @@
+countdown
+
+A countdown website is a dynamic platform featuring a timer to build anticipation or urgency for an upcoming event, launch, or milestone.
+
+Digital clock
+
+A digital clock website displays the current time in a clear, modern format, often with additional features like date, time zone settings, and customizable styles for convenience and aesthetic appeal.
+
+Radius
+
+A radius website visually demonstrates the concept of a radius in geometry, typically featuring interactive elements or tools to calculate and explore the radius of circles and its applications in real-life contexts.
+
+
+Password Generation
+
+A password generation website is a tool that creates strong, secure, and random passwords based on user-defined criteria like length, inclusion of uppercase letters, lowercase letters, numbers often with options to copy to the clipboard for easy use
